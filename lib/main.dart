@@ -24,9 +24,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.deepPurple,
         accentColor: Colors.teal,
       ),
-      home: AnimatedSplashScreen(
-          splash: Image.asset('assets/sigi.png'),
-          nextScreen: Home()),
+      home: Home(),
     );
   }
 }

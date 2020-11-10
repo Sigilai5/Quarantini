@@ -21,7 +21,10 @@ class _CreateAccountState extends State<CreateAccount> {
       SnackBar snackbar = SnackBar(content: Text("Welcome $username!"));
       _scaffoldKey.currentState.showSnackBar(snackbar);
 
-        Navigator.pop(context, username); //This passes the username variable back to home and is opposite of Navigator.push()
+        Timer(Duration(seconds: 2), () {
+          Navigator.pop(context, username); //This passes the username variable back to home and is opposite of Navigator.push()
+        });
+
 
     }
 
