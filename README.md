@@ -1,37 +1,37 @@
 # Quarantini
 
-## Users Can Login wigh Google
+## Users can login with Google
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen1.jpg" width="500" height="800"/> 
 
-## Get Timeline Posts
+## Get timeline posts
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen2.jpg" width="500" height="800"/> 
 
-## Upload Images
+## Upload images
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen3.jpg" width="500" height="800"/> 
 
-## Apply Fiters
+## Apply fiters
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen4.jpg" width="500" height="800"/> 
 
-## Add Caption And Post
+## Add caption And location
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen5.jpg" width="500" height="800"/> 
 
-## See upload Loading Status
+## See upload loading status
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen6.jpg" width="500" height="800"/> 
 
-## See Posts in their Profile
+## See posts in their profile page
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen7.jpg" width="500" height="800"/> 
 
-## Update Profile Info
+## Update profile info
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen8.jpg" width="500" height="800"/> 
 
-## Like Posts
+## Like posts
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen9.jpg" width="500" height="800"/> 
 
-## Comment On Posts in RealTime
+## Comment on posts in realtime
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen10.jpg" width="500" height="800"/> 
 
-## Get Notification on who commented/liked/followed
+## Get Notifications on who commented/liked/followed
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen11.jpg" width="500" height="800"/> 
 
-## Search Other Users Profile
+## Search other users profile
 <img src="https://github.com/Sigilai5/Quarantini/blob/master/screenshots/screen12.jpg" width="500" height="800"/> 
