@@ -38,12 +38,13 @@ dependencies:
   fluttertoast: ^7.1.1
   toast: ^0.1.5
   animated_splash_screen: ^1.0.1+2
+  google_sign_in_mocks: ^0.1.0+2
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  test: ^1.0.0
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
